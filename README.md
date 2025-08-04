@@ -18,23 +18,33 @@ Valid API key with billing enabled
 
 **Setup Instructions**
    1. Clone the repository
+
      git clone https://github.com/faizantariq1/PlaceSearchApp.git
+
    2. Install dependencies
+
       npm install
       or
       yarn install
+
    3. Configure environment variables
+
     Create a .env file in the root directory:
      GOOGLE_PLACES_API_KEY=your_api_key_here
 
    4. iOS setup  
+
     cd ios && pod install && cd ..
+
    5. Android map key
+
     Add your API key to android/app/src/main/AndroidManifest.xml: 
      <meta-data
         android:name="com.google.android.geo.API_KEY"
         android:value="your_map_key" />
+
    6. IOS map key
+
        go to info.plist file
        <key>GMSApiKey</key>
 	   <string>your_map_key</string>     
