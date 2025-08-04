@@ -1,7 +1,8 @@
-Places Search & Map Viewer
+**Places Search & Map Viewer**
+
 A React Native application that allows users to search for places using Google Maps Places API, view them on a map, and maintain a search history.
 
-Prerequisites
+**Prerequisites**
 Before you begin, ensure you have:
 
 
@@ -15,7 +16,7 @@ Places API enabled
 
 Valid API key with billing enabled
 
-Setup Instructions
+**Setup Instructions**
    1. Clone the repository
      git clone https://github.com/faizantariq1/PlaceSearchApp.git
    2. Install dependencies
@@ -44,7 +45,7 @@ Setup Instructions
    8. to run on android   
        yarn android 
        --------------------------------------------------------
-       Project Architecture Approach
+      ** Project Architecture Approach**
         1. State Management Strategy
             I'll intentionally avoid Redux, Context API, or Zustand for state management in this project since:
 
