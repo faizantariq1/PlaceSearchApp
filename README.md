@@ -54,6 +54,7 @@ Valid API key with billing enabled
 
    8. to run on android   
        yarn android 
+
        --------------------------------------------------------
       ** Project Architecture Approach**
         1. State Management Strategy
