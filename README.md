@@ -17,8 +17,7 @@ Valid API key with billing enabled
 
 Setup Instructions
    1. Clone the repository
-     git clone https://github.com/yourusername/places-search-map.git
-     cd places-search-map
+     git clone https://github.com/faizantariq1/PlaceSearchApp.git
    2. Install dependencies
       npm install
       # or
