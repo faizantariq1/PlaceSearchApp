@@ -21,7 +21,7 @@ Valid API key with billing enabled
      git clone https://github.com/faizantariq1/PlaceSearchApp.git
    2. Install dependencies
       npm install
-      # or
+      or
       yarn install
    3. Configure environment variables
     Create a .env file in the root directory:
