@@ -69,4 +69,7 @@ Valid API key with billing enabled
             Instead of using Axios or GraphQL, I'll implement:
 
             A fetch request. but for now these are not required. for making code minimal i also does not created a separate api manager for get,post etc request.
+
+        3. Component Approach:
+            Also, in my development pattern, I create custom components for elements like TextInput, Text, Button, etc., so they can be reused with consistent styling across the app in the future.
        --------------------------------------------------------
